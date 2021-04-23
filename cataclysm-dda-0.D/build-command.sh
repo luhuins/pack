@@ -1,0 +1,1 @@
+GUIX_BUILD_OPTIONS="" guix time-machine --url=/srv/code/git/guix --commit=39604beba8c70c7e37bb2f254ad803bc8c -- pack -RR -C xz -S /games/cataclysm-dda-0.D/bin=bin -S /games/cataclysm-dda-0.D/lib=lib cataclysm-dda glibc-utf8-locales
